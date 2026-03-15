@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Shashank%20Jain&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20AI%20Enthusiast&amp;descAlignY=55&amp;descAlign=50&amp;descSize=18&amp;descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shashank%20Jain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20%2B%20Spring%20Boot%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50&descSize=18&descColor=a78bfa"
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=600&amp;lines=Java+%26+Spring+Boot+Developer;Building+Scalable+Backend+Systems;Full-Stack+with+React.js+%26+Node.js;Exploring+AI+%26+Deep+Learning;Two-Time+Hackathon+Finalist" alt="Typing SVG" />
